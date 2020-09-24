@@ -14,3 +14,6 @@ Thumbs.db
 
 # adding virtual environment
 trivia/
+
+# ignore
+frontend/node_modules/
